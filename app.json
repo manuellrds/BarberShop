@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "a3d59e79-59c0-490d-8c67-47d3575cc6a1"
+      }
+    },
+    "android": {
+      "package": "com.manuellrds.app"
+    }
+  }
+}
